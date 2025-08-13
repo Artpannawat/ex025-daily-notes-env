@@ -3,5 +3,5 @@
     
  </template>
 <script setup>
-navigateTo('/login')  // redirect ไปหน้า login12
+navigateTo('/login')  // redirect ไปหน้า login
 </script>
